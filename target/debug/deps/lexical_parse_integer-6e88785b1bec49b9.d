@@ -1,0 +1,11 @@
+/home/oem/study/dioxus_root/target/debug/deps/lexical_parse_integer-6e88785b1bec49b9.rmeta: /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/lib.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/shared.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/algorithm.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/compact.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/options.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/parse.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/api.rs
+
+/home/oem/study/dioxus_root/target/debug/deps/lexical_parse_integer-6e88785b1bec49b9.d: /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/lib.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/shared.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/algorithm.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/compact.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/options.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/parse.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/api.rs
+
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/lib.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/shared.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/algorithm.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/compact.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/options.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/parse.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/lexical-parse-integer-0.8.6/src/api.rs:

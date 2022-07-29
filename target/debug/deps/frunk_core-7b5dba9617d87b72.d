@@ -1,0 +1,14 @@
+/home/oem/study/dioxus_root/target/debug/deps/frunk_core-7b5dba9617d87b72.rmeta: /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/lib.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/macros.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/coproduct.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/generic.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/hlist.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/indices.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/labelled.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/path.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/traits.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/tuples.rs
+
+/home/oem/study/dioxus_root/target/debug/deps/frunk_core-7b5dba9617d87b72.d: /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/lib.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/macros.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/coproduct.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/generic.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/hlist.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/indices.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/labelled.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/path.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/traits.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/tuples.rs
+
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/lib.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/macros.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/coproduct.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/generic.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/hlist.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/indices.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/labelled.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/path.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/traits.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/frunk_core-0.4.0/src/tuples.rs:

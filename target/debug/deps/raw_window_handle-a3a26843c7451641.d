@@ -1,0 +1,13 @@
+/home/oem/study/dioxus_root/target/debug/deps/raw_window_handle-a3a26843c7451641.rmeta: /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/lib.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/android.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/appkit.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/haiku.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/redox.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/uikit.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/unix.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/web.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/windows.rs
+
+/home/oem/study/dioxus_root/target/debug/deps/raw_window_handle-a3a26843c7451641.d: /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/lib.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/android.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/appkit.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/haiku.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/redox.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/uikit.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/unix.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/web.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/windows.rs
+
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/lib.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/android.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/appkit.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/haiku.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/redox.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/uikit.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/unix.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/web.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/raw-window-handle-0.4.3/src/windows.rs:

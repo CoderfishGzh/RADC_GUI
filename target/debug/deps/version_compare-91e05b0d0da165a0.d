@@ -1,0 +1,12 @@
+/home/oem/study/dioxus_root/target/debug/deps/version_compare-91e05b0d0da165a0.rmeta: /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/lib.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/cmp.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/compare.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/manifest.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/part.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/version.rs
+
+/home/oem/study/dioxus_root/target/debug/deps/libversion_compare-91e05b0d0da165a0.rlib: /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/lib.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/cmp.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/compare.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/manifest.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/part.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/version.rs
+
+/home/oem/study/dioxus_root/target/debug/deps/version_compare-91e05b0d0da165a0.d: /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/lib.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/cmp.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/compare.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/manifest.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/part.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/version.rs
+
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/lib.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/cmp.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/compare.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/manifest.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/part.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/version-compare-0.1.0/src/version.rs:

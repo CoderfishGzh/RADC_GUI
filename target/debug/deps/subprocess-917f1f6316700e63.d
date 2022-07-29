@@ -1,0 +1,12 @@
+/home/oem/study/dioxus_root/target/debug/deps/subprocess-917f1f6316700e63.rmeta: /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/lib.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/builder.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/communicate.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/popen.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/posix.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/os_common.rs
+
+/home/oem/study/dioxus_root/target/debug/deps/libsubprocess-917f1f6316700e63.rlib: /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/lib.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/builder.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/communicate.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/popen.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/posix.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/os_common.rs
+
+/home/oem/study/dioxus_root/target/debug/deps/subprocess-917f1f6316700e63.d: /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/lib.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/builder.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/communicate.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/popen.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/posix.rs /home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/os_common.rs
+
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/lib.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/builder.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/communicate.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/popen.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/posix.rs:
+/home/oem/.cargo/registry/src/github.com-1ecc6299db9ec823/subprocess-0.2.9/src/os_common.rs:
